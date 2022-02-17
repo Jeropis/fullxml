@@ -1,0 +1,12 @@
+
+p{
+    color: blue;
+    display: list-item;
+    list-style: disc inside;
+}
+span{
+    color: black !important;
+    background-color:yellow;
+    font-weight: bolder; 
+    
+}
